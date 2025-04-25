@@ -1,2 +1,2 @@
-openapi_key = "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"
+openapi_key = ""
 serpapi_key = ""
